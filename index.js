@@ -6,3 +6,8 @@ function functionName(parameters) {
 function nose {
     console.log('noaw');
 }
+
+
+function nose 2 {
+    console.log(nose23'')
+}
