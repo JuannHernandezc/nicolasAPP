@@ -6,3 +6,7 @@ function functionName(parameters) {
 function nicolas {
     console.log('nicolas');
 }
+
+function juliana {
+    console.log('juliana');
+}
